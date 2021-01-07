@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ... finishing up college
 - 🌱 I’m currently learning ... to make a jekyll website
 - 👯 I’m looking to collaborate on ... coding projects
-- 🤔 I’m looking for help with ... using programming for financial analysis
+- 🤔 I’m looking for help with ... becoming a real Software Engineer
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... email or text
 - 😄 Pronouns: ... he/him
